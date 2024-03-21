@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+ nav a {
+    text-decoration: none;
+    font-size: 17px;
+    color: #684A83;
+    margin-top: 15px;
+    margin-bottom: 15px;margin: 30px;
+}
+h1 {font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center; color: red;text-decoration: overline	} 
+    div{font-family: Luminari, fantasy	;}
+    .gallery{display: flex;}
+    .gallery {justify-content: center;
+    background-color: white;
+    padding: 25px;;
+
+}
+.gallery img:hover{background-color: #F3F3FB;padding: 15px; }
+img{width: 280px;height: 240px;}    
+.cena{text-decoration:line-through 	;}
